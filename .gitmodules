@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "sqlstrings"]
 	path = sqlstrings
 	url = https://github.com/dejse/sqlstrings
-	shallow = true
-	registered = true
